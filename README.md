@@ -3,9 +3,7 @@
 # 💫About Me :
 🔭  Exploring new technologies
 
-🌱  Studying  Bachelors of Technology (Computer Science and Engineering) at DSMNRU
-
-🌱  Intern at Digipodium
+🌱  Completed  Bachelors of Technology (Computer Science and Engineering) at DSMNRU
 
 ⚡   I am IBM certified for Data Science & Machine Learning with Python
 
